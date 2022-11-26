@@ -9,8 +9,8 @@ Welcome to how-to-use-sphinx-write's documentation!
 .. toctree::
    :maxdepth: 2
 
-   P00about
-   P01product
+   file/Company.rst
+   file/Tesla.rst
 
 
 Indices and tables

@@ -1,11 +1,10 @@
-## 1.简介
+## 简介
 
 **INOVATEK** 
 
 - A
 - B
-- C
-- D
+
 
 INOVATEK.
 
