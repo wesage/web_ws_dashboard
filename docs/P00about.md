@@ -1,0 +1,14 @@
+## 1.简介
+
+**INOVATEK** 
+
+- A
+- B
+- C
+- D
+
+INOVATEK.
+
+**INOVATEK：** INOVATEK
+
+**INOVATEK：** INOVATEK

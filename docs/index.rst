@@ -9,9 +9,8 @@ Welcome to how-to-use-sphinx-write's documentation!
 .. toctree::
    :maxdepth: 2
 
-   01jianjie
-   02install
-
+   P00about
+   P01product
 
 
 Indices and tables
