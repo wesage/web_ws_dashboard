@@ -89,4 +89,4 @@ html_theme_options = {
 html_show_copyright = True
 
 # 是否显示页面下方的由sphinx创建, 默认为True
-html_show_sphinx = False
+html_show_sphinx = True
