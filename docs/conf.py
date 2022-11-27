@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'INOVATEK易微泰文档中心'
-copyright = '2022, http://www.inovatek.cn/'
+copyright = '2022, http://www.inovatek.cn'
 author = 'wesage'
 
 # The full version, including alpha/beta/rc tags
