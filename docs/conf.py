@@ -24,7 +24,7 @@ author = 'wesage'
 # The full version, including alpha/beta/rc tags
 release = 'V0.1'
 
-html_logo = './_static/SiteDocs/logo.png'
+html_logo = './_static/logo.png'
 # -- General configuration ---------------------------------------------------
 
 # Add any Sphinx extension module names here, as strings. They can be
