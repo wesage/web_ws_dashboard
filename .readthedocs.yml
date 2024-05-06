@@ -5,6 +5,9 @@
 # Required
 version: 2
 
+# https://readthedocs.org/dashboard
+# 向导导入时,有提示.readthedocs.yml
+# 202405062321,ws_cmm
 # Set the OS, Python version and other tools you might need
 build:
   os: ubuntu-22.04
