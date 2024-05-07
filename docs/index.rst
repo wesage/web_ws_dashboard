@@ -9,10 +9,10 @@ WSTRON文档中心
 .. toctree::
    :maxdepth: 2
 
-   file/Company.rst
-   file/Benz.rst
-   file/Bmw.rst
-.. file/Tesla.rst
+   zh/Company.rst
+   zh/Benz.rst
+   zh/Bmw.rst
+.. zh/Tesla.rst
 
 
 Indices and tables
