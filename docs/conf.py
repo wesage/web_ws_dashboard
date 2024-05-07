@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'INOVATEK易微泰文档中心'
-copyright = '2022, http://www.inovatek.cn'
-author = 'wesage'
+project = 'WSTRON文档中心'
+copyright = '2024, http://www.wstron.cn'
+author = 'ws_cmm'
 
 # The full version, including alpha/beta/rc tags
 release = 'V0.1'
